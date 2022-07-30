@@ -13,5 +13,5 @@ pass: admin
 
 new pass: admin1
 
-user token: squ_6e7fd9986a06d2e8678140db2afc2334970e7fce
+user token: sqa_16a329878e5c847e6d5297808ac4a310d6f611d2
 ```
